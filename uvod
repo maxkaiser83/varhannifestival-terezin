@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <title>Terezínský varhanní festival</title>
+  <meta name="description" content="Terezínský varhanní festival">
+  <meta name="author" content="Terezínský varhanní festival">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="//fonts.googleapis.com/css?family=Merriweather:300,400,700&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+  <link rel="icon" type="image/png" href="../img/favicon.png">
+  <link href="css/base.css" rel="stylesheet" type="text/css">
+  <link href="css/style.css" rel="stylesheet" type="text/css">
+  <link href="css/navmenu.css" rel="stylesheet" type="text/css">
+  <link href="css/gallery.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="header">
+<div class="container main-nav">
+	<a href="/index" class="main-nav__logo">
+		<img src="img/header.jpg" alt="Terezínský varhanní festival">
+	</a>
+	<nav class="fl">
+		<a href="" class="main-nav__burger js-nav">
+			 <i class="icon-reorder"></i>
+		</a>
+		<div class="main-nav__block">
+			
+								<a href="/uvod" class="	">Úvod</a>
+								<a href="/o_varhanach" class="">O varhanách</a>
+								<a href="/fotogalerie" class="">Fotogalerie</a>				
+	
+									<a href="/kontakt" class="">Kontakt</a>
+									<a href="/partneri" class="">Partneři</a>
+									<a href="/aktualni_rocnik" class="">Aktuální ročník</a>
+							
+		</div>
+	</nav>
+</div>
+</div>
+
+
+<div id="main" class="container">
+	<h1>Historie a popis varhan v chrámu Vzkříšení Páně v Terezíně</h1>
+	<p>Původní varhany s mechanickou trakturou a zásuvkovými vzdušnicemi postavil kolem roku 1810 litoměřický varhanář Anton Rusch (1768 – 1839). Jeho nástroj se však dochoval pouze v nákresech varhanní skříně a neznámá zůstává i jeho dispozice. Zřejmě se jednalo o velké jednomanuálové dílo.</p>
+	<p>V roce 1898 byly Ruschovy varhany nahrazeny současným nástrojem, který postavila firma Bratří Riegerů z Krnova (Gebrüder Rieger, Jägerndorf) jako svůj opus 622. Nástroj je postaven v mohutné pseudorenesanční skříni, má dva manuály s pedálem, kuželomechanickou trakturu a samostatně stojící hrací stůl. Manuálové klaviatury obsahují 54 kláves (rozsah C – f3) a jsou řazeny chromaticky se standartní barvou kláves (celotónové klávesy jsou potaženy slonovou kostí bílé barvy a půltónové klávesy mají tmavě lakované nákližky). Vzdušnice obou manuálů leží vedle sebe, část prospektových píšťal patří I. manuálu (3 pole) a část II. manuálu (2 pole). Pedál je vystavěn v zadní části hlavního stroje v úrovni manuálových vzdušnic (rozsah C – d1).</p>
+	<p>Varhany byly poškozeny během osvobozování Terezína sovětskými vojsky v roce 1945. Nástroj následně opravil kolem roku 1950 Stanislav Havlík, varhanář z Lovosic. Zdařilou generální opravu a restaurování nástroje včetně výměny měchu, elektroventilátoru a nepůvodního píšťalového prospektu provedla firma Dlabal-Mettler z Bílska u Olomouce v roce 2014. Nástroj má zachovanou svoji původní romantickou dispozici a intonaci z roku 1898. Oprava byla financována pomocí Česko-německého fondu budoucnosti a německého Bundestagu.</p>
+	<p><b><i>Literatura:</i></b></p>
+	<p><i>Tomáš Horák: Varhany a varhanáři litoměřicka a roudnicka</i></p>
+	
+
+  </div>
+
+
+  
+<div id="footer">
+<div class="one-half column block-contact">
+        <table class="noborder"><tbody>
+ 	  <tr><td class="label">Adresa</td><td>Za Oborou 34, Praha 6  16900</td></tr>
+          <tr><td class="label">Email</td><td><a href="mailto:info@Terezínský varhanní festival.cz">info@Terezínský varhanní festival.cz</a></td></tr>
+          <tr><td class="label">Mobil</td><td>+420 605 505 529</td></tr>
+        </tbody></table>
+      </div>
+      <div class="one-half column block-contact">
+        <table class="noborder"><tbody>
+          <tr><td class="label">Facebook</td><td><a target="_blank" href="https://www.facebook.com/cestadokrajiny">https://www.facebook.com/cestadokrajiny</a></td></tr>
+          <tr><td class="label">Blog</td><td><a target="_blank" href="http://blog.Terezínský varhanní festival.cz">blog.Terezínský varhanní festival.cz</a></td></tr>
+          <tr><td class="label">Google+</td><td><a target="_blank" href="https://plus.google.com/u/0/communities/101783831094360976826">KPZ Terezínský varhanní festival</a></td></tr>
+        </tbody></table>
+      </div>        
+<p>&nbsp;</p>
+  
+<div>
+<p><small>Terezínský varhanní festival z.s.
+Spolek zapsaný pod složkou L 64492 u Městského soudu v Praze
+IČ: 04675568</small></p>
+</div>	
+	
+	</div>
+</body>
+</html>
