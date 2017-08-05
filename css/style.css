@@ -1,5 +1,10 @@
 html {
   font-family: "Merriweather", "Times New Roman", serif; 
+  background: url(img/varhany_bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 
