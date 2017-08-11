@@ -781,7 +781,13 @@ td:first-child {
 th:last-child,
 td:last-child {
   padding-right: 0; }
+/* Larger than mobile */
+@media (max-width: 400px) {
+padding-left: 15; }
 
+/* Larger than phablet (also point when grid becomes active) */
+@media (max-width: 550px) {
+padding-left: 15; }
 
 /* Spacing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
