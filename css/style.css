@@ -54,6 +54,7 @@ img {
   height: 30vw;
   background: url(../img/page_bg_bottom.jpg) no-repeat center 100%;
   background-size: cover;
+  text-align: center;
 }
 
 .block-header h1 {
