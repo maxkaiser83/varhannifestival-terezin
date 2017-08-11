@@ -45,9 +45,9 @@ img {
 }
 
 #main {
-  padding-top: 6.0rem;
+  padding: 6.0rem;
   font-size: 1.6rem;
-  background: rgba(255,255,255,0.9);
+  background: rgba(210,220,160,0.5);
 }
 
 #footer {
