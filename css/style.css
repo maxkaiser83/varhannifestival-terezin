@@ -1,6 +1,6 @@
 html {
   font-family: "Merriweather", "Times New Roman", serif; 
-  background: url(img/varhany_bg.jpg) no-repeat center center fixed; 
+  background: url(/img/varhany_bg.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -54,6 +54,7 @@ img {
   height: 30vw;
   background: url(../img/page_bg_bottom.jpg) no-repeat center 100%;
   background-size: cover;
+  padding-top: 6.0rem;
   text-align: center;
 }
 
