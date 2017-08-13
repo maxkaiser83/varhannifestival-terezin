@@ -53,7 +53,7 @@ img {
 #footer {
   width: 100vw;
   height: 30vw;
-  background: url(../img/page_bg_bottom.jpg) no-repeat center 100%;
+  background: rgba(210,220,160,0.5);
   background-size: cover;
   padding-top: 30px;
   text-align: center;
