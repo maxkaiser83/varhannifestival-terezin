@@ -87,3 +87,79 @@ img {
   hyphens: auto;
 }
 
+.main-nav__block
+{
+	margin-top:15px
+}
+
+.main-nav__block ul
+{
+	list-style:none;
+	position:relative;
+	float:left;
+	margin:0;
+	padding:0
+}
+
+.main-nav__block ul a
+{
+	display:block;
+	color:#333;
+	text-decoration:none;
+	font-weight:700;
+	font-size:12px;
+	line-height:32px;
+	padding:0 15px;
+	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
+}
+
+.main-nav__block ul li
+{
+	position:relative;
+	float:left;
+	margin:0;
+	padding:0
+}
+
+.main-nav__block ul li.current-menu-item
+{
+	background:#ddd
+}
+
+.main-nav__block ul li:hover
+{
+	background:#f6f6f6
+}
+
+.main-nav__block ul ul
+{
+	display:none;
+	position:absolute;
+	top:100%;
+	left:0;
+	background:#fff;
+	padding:0
+}
+
+.main-nav__block ul ul li
+{
+	float:none;
+	width:200px
+}
+
+.main-nav__block ul ul a
+{
+	line-height:120%;
+	padding:10px 15px
+}
+
+.main-nav__block ul ul ul
+{
+	top:0;
+	left:100%
+}
+
+.main-nav__block ul li:hover > ul
+{
+	display:block
+}
