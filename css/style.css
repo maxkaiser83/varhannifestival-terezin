@@ -96,10 +96,11 @@ img {
 {
 	list-style:none;
 	position:relative;
+
+}
 /*	float:left;
 	margin:0;
 	padding:0 */
-}
 
 .main-nav__block ul a
 {
