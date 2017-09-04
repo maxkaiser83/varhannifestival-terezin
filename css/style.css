@@ -22,11 +22,11 @@ table.noborder th {
   border: none;
 } 
 
-/* */
+/* 
 img {
   max-width: 100%;
 }
-
+*/
 /*
 #page {
   background: #fff;
@@ -106,7 +106,6 @@ img {
 {
 	display:block;
 	text-decoration:none;
-	line-height:32px;
 	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
 }
 
