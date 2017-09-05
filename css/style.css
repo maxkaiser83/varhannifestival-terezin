@@ -20,6 +20,7 @@ body {
 table.noborder td, 
 table.noborder th {
   border: none;
+  text-align: left;
 } 
 
 
