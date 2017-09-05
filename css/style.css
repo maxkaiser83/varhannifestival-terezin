@@ -45,6 +45,7 @@ img {
 }
 
 #main {
+  padding: 6em 3em 0 3em;
   /* padding: 6.0rem; */
   /* font-size: 1.6rem; */
   background: rgba(210,220,160,0.5);
