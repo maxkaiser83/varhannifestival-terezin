@@ -90,13 +90,18 @@ img {
 
 .main-nav__block
 {
-	margin-top:15px
+	margin-top:15px;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	
 }
 
 .main-nav__block ul
 {
 	list-style:none;
 	position:relative;
+	flex-grow: 1;
 
 }
 /*	float:left;
