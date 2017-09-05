@@ -98,7 +98,7 @@
 .main-nav nav .main-nav__block .nav__right a:last-child{
 	margin-right:0;
 	padding-right:0}
-	@media only screen and (min-width: 750px) and (max-width: 980px){.main-nav nav .main-nav__block{padding:0 1%}}
+	@media only screen and (min-width: 750px) and (max-width: 980px){.main-nav nav .main-nav__block{padding:0}}
 	@media all and (max-width: 740px){
 		.main-nav nav .main-nav__block .nav__left,.main-nav nav .main-nav__block .nav__right{width:47%;text-align:justify}
 	
