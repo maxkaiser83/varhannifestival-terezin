@@ -113,10 +113,8 @@ img {
 
 .main-nav__block ul li
 {
-	position:relative;
-	float:left;
-	margin:0;
-	padding:0
+	display: flex;
+	flex-grow: 1;
 }
 
 .main-nav__block ul li.current-menu-item
