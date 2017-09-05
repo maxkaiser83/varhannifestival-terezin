@@ -91,13 +91,14 @@ img {
 .main-nav__block
 {
 	margin-top:15px;
-	justify-content: center;
+	width: 100%;
 }
 
 .main-nav__block ul
 {
 	list-style:none;
-	position:relative;
+	display: flex;
+	flex-grow: 1;
 }
 /*	float:left;
 	margin:0;
