@@ -1,0 +1,180 @@
+html {
+  font-family: "Merriweather", "Times New Roman", serif; 
+  background: url(/img/varhany_bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+body {
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+
+table.noborder td, 
+table.noborder th {
+  border: none;
+  text-align: center;
+} 
+
+
+img {
+  max-width: 100%;
+}
+
+/*
+#page {
+  background: #fff;
+}
+*/
+
+
+#header {
+  background-image:
+    linear-gradient(
+      to bottom, 
+      rgba(255,255,255,0.45),
+      rgba(255,255,255,0.45) 95%,
+      rgba(255,255,255,0) 100%
+  );
+}
+
+#main {
+  padding: 6em 3em 3em 3em;
+  /* padding: 6.0rem; */
+  /* font-size: 1.6rem; */
+  background: rgba(210,220,160,0.7);
+  line-height: 1.35em;
+}
+
+#footer {
+  width: 100vw;
+  height: 30vw;
+  background: rgba(210,220,160,0.5);
+  background-size: cover;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.block-header h1 {
+  max-width: 200px;
+}
+.block-header img {
+  display: block;
+  width: 100%;
+}
+
+.block-contact {
+  text-shadow: 0 0 4px #fff;
+}
+.block-contact table {
+  width: 70%;
+  margin: 0 auto;
+}
+
+/*
+@media only screen and (max-width: 600px) {
+  .block-contact table {
+    width: 100%;
+    margin: 0;
+}
+*/
+
+.block-contact .label {
+  font-weight: bold;
+}
+.block-contact a {
+  color: #000;
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
+
+.main-nav__block
+{
+	margin-top:15px;
+	width: 100%;
+}
+
+.main-nav__block ul
+{
+	list-style:none;
+	display: flex;
+	flex-grow: 1;
+}
+/*	float:left;
+	margin:0;
+	padding:0 */
+
+.main-nav__block ul a
+{
+	display:block;
+	text-decoration:none;
+	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
+}
+
+.main-nav__block ul li
+{
+	display: flex;
+	flex-grow: 1;
+}
+
+.main-nav__block ul li.current-menu-item
+{
+	background:#ddd
+}
+
+.main-nav__block ul li:hover
+{
+	background:rgba(255,255,255,0.5);
+}
+
+.main-nav__block ul ul
+{
+	display:none;
+	position:absolute;
+	top:100%;
+	left:0;
+	background:rgba(255,255,255,0.3);
+	padding:0
+}
+
+.main-nav__block ul ul li
+{
+	float:none;
+	width:200px
+}
+
+.main-nav__block ul ul a
+{
+	line-height:120%;
+	padding:10px 15px
+}
+
+.main-nav__block ul ul ul
+{
+	top:0;
+	left:100%
+}
+
+.main-nav__block ul li:hover > ul
+{
+	display:block
+}
+.one_third
+{
+	width:33%;
+}
+.one_half
+{
+	width:50%;
+}
