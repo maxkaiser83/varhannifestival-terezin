@@ -166,7 +166,7 @@ img {
 	left:100%
 }
 
-.main-nav__block ul li:hover > ul
+.main-nav__block ul li:hover ul
 {
 	display:block
 }
@@ -182,7 +182,7 @@ img {
 {
 	text-align: center;
 }
-.main-page-text a
+.main-page-text a a:link a:visited a:hover a:active
 {
 	text-decoration: none;
 }
