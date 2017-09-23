@@ -178,3 +178,12 @@ img {
 {
 	width:50%;
 }
+
+.main-page-text 
+{
+	text-align: center;
+}
+.main-page-text a
+{
+	text-decoration: none;
+}
