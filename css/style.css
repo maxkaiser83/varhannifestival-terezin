@@ -16,6 +16,9 @@ body {
   margin: 0 auto;
 }
 
+.odstavec p{
+  padding-left: 10px;	
+}
 
 table.noborder td, 
 table.noborder th {
