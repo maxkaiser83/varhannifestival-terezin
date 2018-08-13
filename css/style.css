@@ -60,7 +60,7 @@ img {
   background: rgba(210,220,160,0.5);
   background-size: cover;
   padding-top: 30px;
-  text-align: justify;
+  text-align: center;
 }
 
 .block-header h1 {
