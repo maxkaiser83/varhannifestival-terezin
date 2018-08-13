@@ -16,10 +16,6 @@ body {
   margin: 0 auto;
 }
 
-.odstavec p{
-  margin-left: 10px;	
-}
-
 table.noborder td, 
 table.noborder th {
   border: none;
@@ -55,6 +51,7 @@ img {
   background: rgba(210,220,160,0.7);
   line-height: 2.30em;
   text-align: justify;
+  text-indent: 50px;
 }
 
 #footer {
