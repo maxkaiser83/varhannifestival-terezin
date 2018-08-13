@@ -44,16 +44,16 @@ img {
       rgba(255,255,255,0) 100%
   );
 }
-
+/*
 #main {
   padding: 6em 3em 3em 3em;
   /* padding: 6.0rem; */
   /* font-size: 1.6rem; */
-  background: rgba(210,220,160,0.7);
+  /*background: rgba(210,220,160,0.7);
   line-height: 2.30em;
   text-align: justify;
 }
-
+*/
 #footer {
   width: 100vw;
   height: 30vw;
