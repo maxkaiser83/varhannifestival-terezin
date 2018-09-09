@@ -51,7 +51,7 @@ img {
   background: rgba(210,220,160,0.7);
   line-height: 2.30em;
   text-align: justify;
-  text-indent: 50px;
+  /*text-indent: 50px;*/
 }
 
 #footer {
